@@ -35,8 +35,14 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=white" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Project_Management-FF6F00?style=for-the-badge&logo=project-management&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/TestRail-1C1C1C?style=for-the-badge&logo=test&logoColor=white" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+
 </p>
 
 
@@ -89,10 +95,10 @@
 ---
 
 ### 🤝 Connect With Me:
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-ma--h--noor-blue?style=flat-square&logo=linkedin)]  (https://www.linkedin.com/in/ma-h-noor) 
+- !LinkedIn(https://img.shields.io/badge/LinkedIn-ma--h--noor-blue?style=flat-square&logo=linkedin)(https://www.linkedin.com/in/ma-h-noor) 
 
 - GitHub: [Mah-Noor11](https://github.com/Mah-Noor11)
-- Email: *[mahnoortech738@gmail.com]*
+- Email: *mahnoortech738@gmail.com*
 
 ---
 
