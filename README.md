@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Mahnoor</h1>
 
-<p align="center">Aspiring Data Analyst | ML Learner | QA & GenAI Enthusiast</p>
+<p align="center">Aspiring Data & ML Analyst | Research Analyst | QA & GenAI Enthusiast</p>
 
 ---
 
@@ -10,15 +10,15 @@
 🔍 Exploring data analysis, machine learning, automation, and modern AI tools  
 💼 Previously worked as:
 - Data Analyst
-- ML Analyst
+- Machine Learning Analyst
 - Research Analyst
 
 🧑‍🏫 Conducted sessions on:
 - Software Quality Assurance (SQA)
 - Project Management (Jira, Hubstaff)
-- IELTS speaking & moderation
+- IELTS Speaking & Moderation
 
-🤝 Collaborated with UK clients on data scraping & entry projects
+🤝 Collaborated with UK clients on web scraping & data entry
 
 ---
 
@@ -40,20 +40,20 @@
 
 | Project | Description |
 |--------|-------------|
-| **Selenium Automation** | Automates web browser actions using Python + Selenium |
-| **FYP: Travel App (Java/XML)** | Built a mobile travel app for university. *(Code not available online)* |
-| **Power BI / Tableau Dashboards** | Developed real-time dashboards for business insights |
-| **LeetCode Practice** | Solving DSA problems to sharpen problem-solving skills |
-| **Web Scraping & Entry** | UK freelance project for structured data gathering & input |
+| **Selenium Automation** | Automates browser interactions using Python + Selenium |
+| **FYP: Travel App (Java/XML)** | Built a mobile travel app for university *(code not available)* |
+| **Power BI & Tableau Dashboards** | Developed dashboards for business insights |
+| **LeetCode Practice** | Solving DSA problems to enhance logical thinking |
+| **Web Scraping & Entry** | Worked with UK clients on scraping & structured data tasks |
 
 ---
 
 ## 🌱 Currently Exploring
 
-- Generative AI: ChatGPT, Prompt Engineering, LangChain
-- Test Case Design & Bug Reporting
-- Data Visualization Storytelling
-- Improving IELTS Speaking
+- 🤖 Generative AI: ChatGPT, Prompt Engineering, LangChain
+- 🧪 Test Case Design & Bug Reporting
+- 📊 Data Storytelling & Visualization
+- 🗣️ IELTS Speaking & Communication Skills
 
 ---
 
@@ -63,4 +63,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Mah-Noor11&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="450"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mah-Noor11&layout=compact&theme=radical" width="350"/>
 </p>
-
