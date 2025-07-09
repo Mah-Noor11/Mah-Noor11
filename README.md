@@ -29,3 +29,37 @@ A passionate learner with experience in **data analysis**, **ML**, **QA**, and a
 
 ```text
 Python · Java · SQL · Selenium · Power BI · Tableau · Jira · TestRail · Git · Google Colab · Jupyter
+
+---
+
+#### ✅ Step 3: Paste This Just Below That
+
+```markdown
+---
+
+## 🚀 Projects
+
+- 📌 **Selenium Automation**  
+  Automates browser interactions using Python + Selenium
+
+- 📌 **Final Year Project – Travel App (Java/XML)**  
+  *(Built in university; not available online)*
+
+- 📌 **Power BI & Tableau Dashboards**  
+  Business-oriented data reports for analysis and decision-making
+
+- 📌 **LeetCode Problem Solving**  
+  Practicing algorithms and data structures
+
+- 📌 **Web Scraping + Data Entry**  
+  Freelance work with UK clients
+
+---
+
+## 🌱 Currently Learning
+
+- 🤖 Generative AI (ChatGPT, Prompt Engineering, AI tools)
+- 🧪 Test case writing & bug reporting
+- 📈 Data storytelling with visual tools
+- 🗣️ Enhancing communication through IELTS preparation
+
