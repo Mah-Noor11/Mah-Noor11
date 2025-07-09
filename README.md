@@ -32,34 +32,27 @@ Python · Java · SQL · Selenium · Power BI · Tableau · Jira · TestRail · 
 
 ---
 
-#### ✅ Step 3: Paste This Just Below That
+🚀 Projects
+🔹 Selenium Automation
+Automates browser interactions using Python + Selenium.
 
-```markdown
----
+🔹 Final Year Project – Travel App (Java/XML)
+University-based project. (Code not available online.)
 
-## 🚀 Projects
+🔹 Power BI & Tableau Dashboards
+Created interactive, business-oriented reports for insights and decision-making.
 
-- 📌 **Selenium Automation**  
-  Automates browser interactions using Python + Selenium
+🔹 LeetCode Problem Solving
+Practicing data structures, algorithms, and logical problem-solving.
 
-- 📌 **Final Year Project – Travel App (Java/XML)**  
-  *(Built in university; not available online)*
+🔹 Web Scraping & Data Entry (UK clients)
+Worked with UK-based teams to extract, clean, and enter data using Python.
 
-- 📌 **Power BI & Tableau Dashboards**  
-  Business-oriented data reports for analysis and decision-making
+🌱 Currently Learning
+Generative AI (ChatGPT, Prompt Engineering, AI tools)
 
-- 📌 **LeetCode Problem Solving**  
-  Practicing algorithms and data structures
+Test case writing & bug reporting (QA)
 
-- 📌 **Web Scraping + Data Entry**  
-  Freelance work with UK clients
+Data storytelling & visualization
 
----
-
-## 🌱 Currently Learning
-
-- 🤖 Generative AI (ChatGPT, Prompt Engineering, AI tools)
-- 🧪 Test case writing & bug reporting
-- 📈 Data storytelling with visual tools
-- 🗣️ Enhancing communication through IELTS preparation
-
+Improving communication via IELTS prep
