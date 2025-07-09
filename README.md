@@ -95,7 +95,7 @@
 ---
 
 ### 🤝 Connect With Me:
-- [[!LinkedIn](https://img.shields.io/badge/LinkedIn-ma--h--noor-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ma-h-noor) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ma--h--noor-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ma-h-noor)  
 
 - GitHub: [Mah-Noor11](https://github.com/Mah-Noor11)
 - Email: *mahnoortech738@gmail.com*
