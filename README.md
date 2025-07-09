@@ -72,6 +72,4 @@
 - LinkedIn: [linkedin.com/in/ma-h-noor](https://linkedin.com/in/ma-h-noor)
 - Email: *[mahnoortech738@gmail.com]*
 
----
 
-<p align="center">💻 Built with ❤️ to showcase my journey in tech!</p>
