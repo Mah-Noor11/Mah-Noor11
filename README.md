@@ -41,6 +41,11 @@
 | Project | Description |
 |--------|-------------|
 | **Selenium Automation** | Automates web browser actions using Python + Selenium |
+| **FYP: Travel App (Java/XML)** | Built a mobile travel app for university. *(Code not available online)* |
+| **Power BI / Tableau Dashboards** | Developed real-time dashboards for business insights |
+| **LeetCode Practice** | Solving DSA problems to sharpen problem-solving skills |
+| **Web Scraping & Entry** | UK freelance project for structured data gathering & input |
+
 
 ## 📋 QA & Testing Work
 
@@ -48,11 +53,6 @@
   📥 [Download SQA Test Case](./SQA%20Test%20case.xlsx)
 
 - 🧪 Tools used: Google Sheets, Excel, TestRail
-
-| **FYP: Travel App (Java/XML)** | Built a mobile travel app for university. *(Code not available online)* |
-| **Power BI / Tableau Dashboards** | Developed real-time dashboards for business insights |
-| **LeetCode Practice** | Solving DSA problems to sharpen problem-solving skills |
-| **Web Scraping & Entry** | UK freelance project for structured data gathering & input |
 
 ---
 
