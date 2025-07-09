@@ -1,6 +1,6 @@
 <!-- Animated typing effect for your name line -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=00FFA3&width=600&lines=Mahnoor+-+ML+analyst+and+AI+enthusiast" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=00FFA3&width=600&lines=I am Mahnoor" alt="Typing animation" />
 </h1>
 
 <p align="center">Aspiring Data  & ML Analyst | ML Learner |Research Analyst | QA & GenAI Enthusiast</p>
