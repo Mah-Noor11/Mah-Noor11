@@ -1,7 +1,12 @@
-<!-- Typing Animation Intro -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00FFA3&center=true&vCenter=true&width=700&lines=I'm+<strong>Mahnoor</strong>+|+ML+Analyst+%26+AI+Enthusiast" alt="Typing SVG" />
-</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code+Bold&size=50&pause=1000&color=00FFA3&center=true&vCenter=true&width=600&height=70&lines=I+am+Mahnoor" alt="Typing SVG" />
+</p>
+
+
+
+<p align="center">Aspiring Data  & ML Analyst | ML Learner |Research Analyst | QA & GenAI Enthusiast</p>
+
 
 ---
 
@@ -84,8 +89,10 @@
 ---
 
 ### 🤝 Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ma--h--noor-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ma-h-noor) 
-📧 Email: mahnoortech738@gmail.com
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-ma--h--noor-blue?style=flat-square&logo=linkedin)]  (https://www.linkedin.com/in/ma-h-noor) 
+
+- GitHub: [Mah-Noor11](https://github.com/Mah-Noor11)
+- Email: *[mahnoortech738@gmail.com]*
 
 ---
 
