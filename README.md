@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Mahnoor</h1>
 
-<p align="center">Aspiring Data & ML Analyst | Research Analyst | QA & GenAI Enthusiast</p>
+<p align="center">Aspiring Data  & ML Analyst | ML Learner |Research Analyst | QA & GenAI Enthusiast</p>
 
 ---
 
@@ -10,15 +10,15 @@
 🔍 Exploring data analysis, machine learning, automation, and modern AI tools  
 💼 Previously worked as:
 - Data Analyst
-- Machine Learning Analyst
+- ML Analyst
 - Research Analyst
 
 🧑‍🏫 Conducted sessions on:
 - Software Quality Assurance (SQA)
 - Project Management (Jira, Hubstaff)
-- IELTS Speaking & Moderation
+- IELTS speaking & moderation
 
-🤝 Collaborated with UK clients on web scraping & data entry
+🤝 Collaborated with UK clients on data scraping & entry projects
 
 ---
 
@@ -40,26 +40,38 @@
 
 | Project | Description |
 |--------|-------------|
-| **Selenium Automation** | Automates browser interactions using Python + Selenium |
-| **FYP: Travel App (Java/XML)** | Built a mobile travel app for university *(code not available)* |
-| **Power BI & Tableau Dashboards** | Developed dashboards for business insights |
-| **LeetCode Practice** | Solving DSA problems to enhance logical thinking |
-| **Web Scraping & Entry** | Worked with UK clients on scraping & structured data tasks |
+| **Selenium Automation** | Automates web browser actions using Python + Selenium |
+| **FYP: Travel App (Java/XML)** | Built a mobile travel app for university. *(Code not available online)* |
+| **Power BI / Tableau Dashboards** | Developed real-time dashboards for business insights |
+| **LeetCode Practice** | Solving DSA problems to sharpen problem-solving skills |
+| **Web Scraping & Entry** | UK freelance project for structured data gathering & input |
 
 ---
 
 ## 🌱 Currently Exploring
 
-- 🤖 Generative AI: ChatGPT, Prompt Engineering, LangChain
-- 🧪 Test Case Design & Bug Reporting
-- 📊 Data Storytelling & Visualization
-- 🗣️ IELTS Speaking & Communication Skills
+- Generative AI: ChatGPT, Prompt Engineering, LangChain
+- Test Case Design & Bug Reporting
+- Data Visualization Storytelling
+- Improving IELTS Speaking
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mah-Noor11&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mah-Noor11&layout=compact&theme=radical" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mah-Noor11&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mah-Noor11&layout=compact&theme=radical" height="150"/>
 </p>
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: [Mah-Noor11](https://github.com/Mah-Noor11)
+- LinkedIn: [linkedin.com/in/ma-h-noor](https://linkedin.com/in/ma-h-noor)
+- Email: *[mahnoortech738@gmail.com]*
+
+---
+
+<p align="center">💻 Built with ❤️ to showcase my journey in tech!</p>
