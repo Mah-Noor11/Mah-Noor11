@@ -25,7 +25,6 @@
 ## 🛠️ Tools & Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
@@ -61,5 +60,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mah-Noor11&show_icons=true&theme=radical" height="150"/>
-  <img src="https://gith
+  <img src="https://github-readme-stats.vercel.app/api?username=Mah-Noor11&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mah-Noor11&layout=compact&theme=radical" width="350"/>
+</p>
+
