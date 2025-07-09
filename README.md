@@ -56,6 +56,13 @@
 
 ---
 
+## 📊 BI Reports
+
+- 📥 [View Power BI Report (PDF)](https://1drv.ms/b/c/742e26708cc2214b/EeX7pzxjmMNGgSgy2rYT7aQBKcHaDtURdn2c6pKPRqocfg?e=EzKwpt)
+
+
+---
+
 ## 🌱 Currently Exploring
 
 - Generative AI: ChatGPT, Prompt Engineering, LangChain
