@@ -41,7 +41,6 @@
 | Project | Description |
 |--------|-------------|
 | **Selenium Automation** | Automates web browser actions using Python + Selenium |
----
 
 ## 📋 QA & Testing Work
 
