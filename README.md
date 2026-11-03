@@ -1,117 +1,104 @@
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code+Bold&size=50&pause=1000&color=00FFA3&center=true&vCenter=true&width=600&height=70&lines=I+am+Mahnoor" alt="Typing SVG" />
-</p>
-
-
-
-<p align="center">Aspiring Data  & ML Analyst | ML Learner |Research Analyst | QA & GenAI Enthusiast</p>
-
-
----
-
-## 💡 About Me
-
-🎓 IT Graduate (2022)  
-🔍 Exploring data analysis, machine learning, automation, and modern AI tools  
-💼 Previously worked as:
-- Data Analyst
-- ML Analyst
-- Research Analyst
-
-🧑‍🏫 Conducted sessions on:
-- Software Quality Assurance (SQA)
-- Project Management (Jira, Hubstaff)
-- IELTS speaking & moderation
-
-🤝 Collaborated with UK clients on data scraping & entry projects
-
-
-
----
-
-### 🛠️ Skills & Tools:
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-<img src="https://img.shields.io/badge/Project_Management-FF6F00?style=for-the-badge&logo=project-management&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/TestRail-1C1C1C?style=for-the-badge&logo=test&logoColor=white" />
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
-
-</p>
-
-
----
-
----
-
-## 📊 GitHub Stats & Streak
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mah-Noor11&show_icons=true&theme=radical" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mah-Noor11&theme=radical" alt="GitHub Streak" height="180px"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
+  <img src="assets/banner-light.png" width="100%" alt="Mah Noor — Data and Machine Learning Analyst, Aspiring AI Researcher">
+</picture>
+
+### Data Analytics · Machine Learning · Applied AI · Python Education
+
+[**Portfolio**](https://mah-noor11.github.io/) &nbsp; · &nbsp; [**Academic CV**](assets/Mah-Noor-Academic-CV.pdf) &nbsp; · &nbsp; [**LinkedIn**](https://www.linkedin.com/in/ma-h-noor/) &nbsp; · &nbsp; [**Email**](mailto:mahnoortech738@gmail.com)
+
 </div>
 
+## About me
+
+I'm **Mah Noor**, an Information Technology graduate with hands-on experience in data analysis, machine-learning workflows, and technical education. My work has involved dataset annotation, OCR, preprocessing, and reviewing model errors to better understand how data quality affects predictions.
+
+I enjoy exploring practical AI systems, documenting what I learn, and helping others develop their Python skills. I'm preparing for **research-oriented Master's opportunities**, with a long-term goal of doctoral study in computer science or AI.
+
+> **Open to:** Funded Master's scholarships · Research assistantships · Academic collaborations · AI/ML learning opportunities
+
+## Research direction
+
+| **01 / Model reliability** | **02 / Data quality** | **03 / Applied & generative AI** |
+| :--- | :--- | :--- |
+| Exploring evaluation, prediction errors, and model improvement. | Interested in annotation, preprocessing, evidence quality, and reproducible workflows. | Learning how ML and generative AI tools can solve useful problems. |
+
+These are developing research interests, not claims of published research.
+
+## Selected work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+  <p><strong><a href="https://github.com/Mah-Noor11/Sales_dashboard">Sales &amp; Profit Dashboard</a></strong></p>
+  <p>Power BI report demonstrating business-data presentation and dashboard communication.</p>
+  <sub>Business intelligence · Reporting</sub>
+</td>
+<td width="50%" valign="top">
+  <p><strong><a href="https://github.com/Mah-Noor11/plots_data">Plotly Visualizations</a></strong></p>
+  <p>Jupyter notebook experiments with interactive plotting and visual interpretation.</p>
+  <sub>Python · Jupyter · Plotly</sub>
+</td>
+</tr>
+<tr>
+<td valign="top">
+  <p><strong><a href="https://github.com/Mah-Noor11/selenium_work">Selenium Automation</a></strong></p>
+  <p>Python-based browser testing and quality-assurance practice.</p>
+  <sub>Python · Selenium · QA</sub>
+</td>
+<td valign="top">
+  <p><strong><a href="https://github.com/Mah-Noor11/Python">Python Practice</a></strong></p>
+  <p>Exercises in Python fundamentals, functions, conditions, loops, and libraries.</p>
+  <sub>Python · Programming fundamentals</sub>
+</td>
+</tr>
+<tr>
+<td valign="top">
+  <p><strong><a href="https://github.com/Mah-Noor11/Leetcode">Problem-Solving Practice</a></strong></p>
+  <p>Algorithmic problem-solving and coding exercises.</p>
+  <sub>DSA · Python</sub>
+</td>
+<td valign="top">
+  <p><strong><a href="https://github.com/Mah-Noor11/Volunteer-Teaching-Activities">Teaching &amp; Mentoring</a></strong></p>
+  <p>A record of workshops, moderation, and volunteer technical education.</p>
+  <sub>Community · Education</sub>
+</td>
+</tr>
+</table>
+
+## Skills & tools
+
+| Area | Tools and experience |
+| :--- | :--- |
+| **Data & visualization** | Power BI, Tableau, Excel, Pandas, NumPy, Matplotlib, Plotly |
+| **Programming & notebooks** | Python, Jupyter Notebook, Google Colab, Git, GitHub |
+| **Machine learning** | Dataset preparation, annotation, supervised/unsupervised learning concepts, model evaluation, OCR, OpenCV (exploring) |
+| **Testing & workflow** | Selenium, manual QA, TestRail, Jira, Hubstaff |
+| **Currently exploring** | Generative AI, chatbots, ML model improvement, reproducible experiments |
+
+## Competitions, training & community
+
+| Year | Experience | Evidence |
+| :---: | :--- | :---: |
+| 2025 | **Meta Hacker Cup:** advanced from Practice Round to Round 1. Practice Round placement **1,527th**. | [Certificate](assets/credentials/meta-hacker-cup-2025.webp) |
+| 2026 | **Harvard CS50x Puzzle Day:** participated in collaborative logic and problem-solving challenges. | [Certificate](assets/credentials/cs50-puzzle-day-2026.webp) |
+| 2025 | **UC Berkeley CALICO Fall:** competed with team *Quantum Quokka*. | [Certificate](assets/credentials/calico-fall-2025.webp) |
+| 2025 | **Generative AI Application Developer:** completed PakAngels training; certificate carries a *Top Performer* seal. | [Certificate](assets/credentials/genai-developer-2025.webp) |
+| 2025 | **Python & AI Moderator:** recognized by WPBrigade and iCodeGuru for bootcamp moderation. | [Certificate](assets/credentials/python-ai-moderator-2025.webp) |
+| 2026 | **Stanford Code in Place:** accepted as a **student** in the Python learning program. | [Acceptance record](assets/credentials/stanford-code-in-place-2026.webp) |
+
+## Where I'm headed
+
+My goal is to move from applying machine-learning tools toward understanding **why models succeed or fail**, how they can be evaluated fairly, and how to make AI results more reliable. I'm interested in contributing to research groups through graduate study, hands-on projects, and collaborative experimentation.
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mah-Noor11&layout=compact&theme=radical" alt="Top Languages" height="150px"/>
+
+**Interested in research, mentoring, or collaborating?**
+
+[Explore my portfolio](https://mah-noor11.github.io/) · [View my CV](assets/Mah-Noor-Academic-CV.pdf) · [Connect on LinkedIn](https://www.linkedin.com/in/ma-h-noor/)
+
+<sub>Learning with curiosity. Working with evidence. Sharing what I learn.</sub>
+
 </div>
-
----
-
-
-
-### 📁 My Projects:
-- **📊 [Sales Dashboard (Power BI)](https://github.com/Mah-Noor11/Sales_dashboard)**
-- **📊 [Tableau Dashboard Projects](https://github.com/Mah-Noor11/Tableau_dashboard)**
-- **📂 [Python Plots with Plotly](https://github.com/Mah-Noor11/plots_data)**
-- **📂 [Python Practice Projects](https://github.com/Mah-Noor11/Python)**
-- **🧪 [Selenium Automation Testing](https://github.com/Mah-Noor11/selenium_test)**
-- **💻 [LeetCode Practice (DSA)](https://github.com/Mah-Noor11/DSA_Leetcode)**
-- **📱 FYP: Travel App (Java/XML)**  
-  Built a feature-rich mobile travel app for FYP using Java & XML. *(Code not publicly available)*
-
-
-
-
----
-## 📊 BI Reports
-
-- 📥 [View Power BI Report (PDF)](https://1drv.ms/b/c/742e26708cc2214b/EeX7pzxjmMNGgSgy2rYT7aQBKcHaDtURdn2c6pKPRqocfg?e=EzKwpt)
-
-
----
-## 📋 QA & Testing Work
-
-- ✅ Manual test cases documented during SQA session  
-
-  📥 [Download SQA Test Case](./SQA%20Test%20case.xlsx)
-
-- 🧪 Tools used: Google Sheets, Excel, TestRail
-
----
-
-### 🌱 Currently Exploring:
-- Improving ML Models (By using Datasets, Annotation)  
-- Real-time dashboards and automation  
-- Generative AI & LLM applications  
-- Deepening skills in Project Management & quality assurance
-
----
-
-### 🤝 Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ma--h--noor-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ma-h-noor)  
-
-- GitHub: [Mah-Noor11](https://github.com/Mah-Noor11)
-- Email: *mahnoortech738@gmail.com*
-
----
-
-<!-- Optional: GitHub Activity Graph -->
-<!-- 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mah-Noor11&theme=dark)](https://git.io/streak-stats) 
--->
