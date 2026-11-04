@@ -18,7 +18,7 @@
 
 I'm **Mah Noor**, an Information Technology graduate interested in the intersection of **data analysis, machine learning, and practical AI research**. My experience includes working with datasets, annotation, OCR, preprocessing, model-error analysis, Python learning activities, and software QA.
 
-I'm building toward **research-oriented graduate study**. I want to better understand how models behave, how data quality changes their results, and how to evaluate intelligent systems with care.
+I'm building toward **research-oriented graduate study**. I want to understand how models behave, how data quality changes their results, and how to evaluate intelligent systems with care.
 
 > I care about asking useful questions, validating results, and turning curiosity into practical work.
 
