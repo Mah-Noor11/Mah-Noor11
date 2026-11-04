@@ -1,20 +1,16 @@
-# Mah Noor — GitHub profile README (Interactive Edition)
+# Install the redesigned profile
 
-## Upload
+1. Open https://github.com/Mah-Noor11/Mah-Noor11 (the profile repository).
+2. Download the ZIP and extract it.
+3. Copy `README.md` and the full `assets/` folder to the root of that repository. **Keep the original non-SVG assets** (especially `assets/Mah-Noor-Academic-CV.pdf`) when replacing the folder. This package does not include the existing CV PDF.
+4. Commit the files to the default branch, normally `main`.
+5. Visit https://github.com/Mah-Noor11 to see the new profile.
 
-1. Open the **Mah-Noor11/Mah-Noor11** profile repository (do not create a new repo).
-2. Replace the existing `README.md` with the one in this folder.
-3. Upload the entire `assets/` directory **with the same folder structure**.
-4. Commit to the repository default branch, then open `https://github.com/Mah-Noor11`.
-5. Refresh the page if GitHub caches old images.
+## Important
 
-**Important:** `README.md` and the folder `assets/` must be at the repository root. Extract the ZIP first; do not upload the ZIP file itself.
-
-## Interaction notes
-GitHub Markdown sanitizes custom scripts/styles, so **CSS hover-to-reveal and arbitrary pop-up dialogs cannot work on profile READMEs**. Cards use the native **click-to-expand `<details>`** element, which works in GitHub. The animated name, portrait, and quick-facts/roadmap are local GIFs, requiring no external service.
-
-The streak image uses a third-party live image endpoint (`streak-stats.demolab.com`) and may occasionally be unavailable. The other two summary images are **local files**, avoiding broken-image errors from the public `github-readme-stats.vercel.app` instance. The summary visuals deliberately show no fabricated contribution or language counts.
-
-The portfolio button assumes `https://mah-noor11.github.io/` is published. Change it if her site has another URL.
-
-Skills are represented by compact icon-style monograms with alt/title tooltips; no unofficial certification levels or mastery claims are implied. Certificate gallery is intentionally omitted per the latest request. The provided CV is retained unchanged from the previous profile package.
+- The animated name, roles, decorative orbit, connection icons and footer are SVG assets. They are built to work as embedded images in GitHub README Markdown. Some viewers or reduced-motion settings may show a still frame.
+- Project links and social links are clickable. SVG hover popups and embedded JavaScript are not supported by GitHub README.
+- The header and footer do not require a third-party service. Technology badges use shields.io and the streak card uses github-readme-streak-stats, so those elements require network availability.
+- The existing Academic CV PDF must remain in assets/ for its link to work.
+- If you want to customize roles, change the four strings in `assets/roles.svg`; change the display name in `assets/hero.svg` (you may need to increase the SVG clipping width for longer names).
+- For production, preview on desktop and mobile and check accessibility with motion reduction enabled.

@@ -1,172 +1,111 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/identity/identity-dark.gif" />
-  <img src="assets/identity/identity-light.gif" width="100%" alt="Mah Noor — animated name and research-focused bio" />
-</picture>
+<img src="./assets/hero.svg" width="100%" alt="Mah Noor animated typewriter name and olive green research banner" />
 
 <br />
-<img src="assets/identity/portrait-green.gif" width="410" alt="Mah Noor — animated green profile card" />
 
-<p><a href="https://mah-noor11.github.io/">Portfolio</a> &nbsp; • &nbsp; <a href="assets/Mah-Noor-Academic-CV.pdf">Academic CV</a> &nbsp; • &nbsp; <a href="https://www.linkedin.com/in/ma-h-noor/">LinkedIn</a></p>
+<img src="./assets/roles.svg" width="100%" alt="Rotating roles: AI Research Enthusiast, Data Analyst, Machine Learning Explorer, Python and Analytics Learner" />
+
+<br />
+
+[**Portfolio**](https://mah-noor11.github.io/) &nbsp; · &nbsp; [**Academic CV**](./assets/Mah-Noor-Academic-CV.pdf) &nbsp; · &nbsp; [**LinkedIn**](https://www.linkedin.com/in/ma-h-noor/)
 
 </div>
 
----
+<br />
 
-## About Me
+<img src="./assets/about.svg" width="100%" alt="A little about me" />
 
-I’m **Mah Noor**, an Information Technology graduate exploring the intersection of data, machine learning, and real-world AI applications. I’ve worked with datasets, annotation, OCR, preprocessing, and model-error analysis, and I enjoy supporting others as they learn Python.
+I'm **Mah Noor**, an Information Technology graduate interested in the intersection of **data analysis, machine learning, and practical AI research**. My experience includes working with datasets, annotation, OCR, preprocessing, model-error analysis, Python learning activities, and software QA.
 
-I’m preparing for **research-oriented Master’s opportunities**, with a long-term interest in **PhD study and AI research**. My research interests are evolving through hands-on learning and experimentation.
+I'm building toward **research-oriented graduate study**. I want to better understand how models behave, how data quality changes their results, and how to evaluate intelligent systems with care.
 
-**Explore more — click a card:**
+> I care about asking useful questions, validating results, and turning curiosity into practical work.
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<details><summary><img src="assets/about/01.png" width="100%" alt="Currently growing in: click to expand" /></summary><p>Model evaluation, data quality, generative AI, and practical machine-learning workflows.</p></details>
-</td>
-<td width="50%" valign="top">
-<details><summary><img src="assets/about/02.png" width="100%" alt="Interested in: click to expand" /></summary><p>Trustworthy AI, model reliability, applied AI, reproducible experiments, and research-led graduate education.</p></details>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<details><summary><img src="assets/about/03.png" width="100%" alt="Experience includes: click to expand" /></summary><p>Data analysis and annotation, Python teaching, course moderation, software QA, and collaborative technical projects.</p></details>
-</td>
-<td valign="top">
-<details><summary><img src="assets/about/04.png" width="100%" alt="Open to: click to expand" /></summary><p>Funded Master’s scholarships, research assistantships, academic collaborations, mentoring, and AI/ML projects.</p></details>
-</td>
-</tr>
-</table>
+<table><tr><td width="50%" valign="top">
 
-## Research Interests
+**Now exploring**
 
-<div align="center"><em>Exploring questions about data quality, model behavior, and responsible AI development.</em></div>
+- Machine learning evaluation
+- Data visualization and analytics
+- Generative AI and model behavior
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<details><summary><img src="assets/cards/research-01.png" width="100%" alt="Model Reliability — expand" /></summary><p>Interested in understanding failure cases, evaluation design, and whether AI systems behave reliably under changing conditions.</p></details>
-</td>
-<td width="50%" valign="top">
-<details><summary><img src="assets/cards/research-02.png" width="100%" alt="Data Quality — expand" /></summary><p>Exploring how annotation, incomplete records, preprocessing, and dataset choices influence downstream model performance.</p></details>
-</td>
-</tr>
-<tr>
-<td valign="top" colspan="2" align="center">
-<details><summary><img src="assets/cards/research-03.png" width="50%" alt="Applied AI — expand" /></summary><p>Building skills in Python, machine learning, generative AI, and practical software workflows for useful problems.</p></details>
-</td>
-</tr>
-</table>
+</td><td width="50%" valign="top">
 
-## Quick Facts
+**Open to**
 
-<div align="center"><img src="assets/cards/quick-facts.gif" width="100%" alt="Quick facts — IT graduate, Pakistan, Meta Hacker Cup Round 1, graduate research aspirations" /></div>
+- Research collaborations
+- Python and analytics projects
+- Academic learning communities
 
-## Skills & Tools
+</td></tr></table>
+
+<img src="./assets/skills.svg" width="100%" alt="Skills and tools" />
 
 <div align="center">
 
-<!-- Icon-only section: each image has a descriptive tooltip / alternative text. -->
-<img src="assets/skills/python.png" width="58" height="58" alt="Python" title="Python" /> <img src="assets/skills/java.png" width="58" height="58" alt="Java" title="Java" /> <img src="assets/skills/git.png" width="58" height="58" alt="Git" title="Git" /> <img src="assets/skills/github.png" width="58" height="58" alt="Github" title="Github" /> <img src="assets/skills/jupyter.png" width="58" height="58" alt="Jupyter" title="Jupyter" /> <img src="assets/skills/colab.png" width="58" height="58" alt="Colab" title="Colab" /> <img src="assets/skills/pandas.png" width="58" height="58" alt="Pandas" title="Pandas" /> <img src="assets/skills/numpy.png" width="58" height="58" alt="Numpy" title="Numpy" /> 
-<br />
+**Programming & data**
 
-<img src="assets/skills/plotly.png" width="58" height="58" alt="Plotly" title="Plotly" /> <img src="assets/skills/powerbi.png" width="58" height="58" alt="Powerbi" title="Powerbi" /> <img src="assets/skills/tableau.png" width="58" height="58" alt="Tableau" title="Tableau" /> <img src="assets/skills/selenium.png" width="58" height="58" alt="Selenium" title="Selenium" /> <img src="assets/skills/excel.png" width="58" height="58" alt="Excel" title="Excel" /> <img src="assets/skills/opencv.png" width="58" height="58" alt="Opencv" title="Opencv" /> <img src="assets/skills/testrail.png" width="58" height="58" alt="Testrail" title="Testrail" /> <img src="assets/skills/jira.png" width="58" height="58" alt="Jira" title="Jira" /> 
+<img alt="Python" src="https://img.shields.io/badge/Python-23382b?style=for-the-badge&logo=python&logoColor=d5e4bd" />
+<img alt="SQL" src="https://img.shields.io/badge/SQL-23382b?style=for-the-badge&logo=postgresql&logoColor=d5e4bd" />
+<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-23382b?style=for-the-badge&logo=jupyter&logoColor=d5e4bd" />
+<img alt="Pandas" src="https://img.shields.io/badge/Pandas-23382b?style=for-the-badge&logo=pandas&logoColor=d5e4bd" />
 
-<sub>Skill names appear on hover where supported.</sub>
+**Analysis, testing & workflow**
+
+<img alt="Power BI" src="https://img.shields.io/badge/Power_BI-23382b?style=for-the-badge&logo=powerbi&logoColor=d5e4bd" />
+<img alt="Plotly" src="https://img.shields.io/badge/Plotly-23382b?style=for-the-badge&logo=plotly&logoColor=d5e4bd" />
+<img alt="Selenium" src="https://img.shields.io/badge/Selenium-23382b?style=for-the-badge&logo=selenium&logoColor=d5e4bd" />
+<img alt="Git" src="https://img.shields.io/badge/Git-23382b?style=for-the-badge&logo=git&logoColor=d5e4bd" />
+
 </div>
 
-## Featured Repositories
+<br />
 
-<sub>Click a project card to see what it covers and open its GitHub repository.</sub>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<details><summary><img src="assets/repos/01.png" width="100%" alt="Sales & Profit Dashboard: click to expand" /></summary>
-<p><strong>Sales & Profit Dashboard</strong></p>
-<p>An exploration of business reporting and dashboard visualization in Power BI.</p>
-<p>↗ <a href="https://github.com/Mah-Noor11/Sales_dashboard"><strong>Open Repository on GitHub</strong></a></p>
-</details>
-</td>
-<td width="50%" valign="top">
-<details><summary><img src="assets/repos/02.png" width="100%" alt="Plotly Visualizations: click to expand" /></summary>
-<p><strong>Plotly Visualizations</strong></p>
-<p>Python notebook work exploring interactive plots and visual interpretation.</p>
-<p>↗ <a href="https://github.com/Mah-Noor11/plots_data"><strong>Open Repository on GitHub</strong></a></p>
-</details>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<details><summary><img src="assets/repos/03.png" width="100%" alt="Selenium Automation: click to expand" /></summary>
-<p><strong>Selenium Automation</strong></p>
-<p>Browser-based QA automation and test workflow practice in Python.</p>
-<p>↗ <a href="https://github.com/Mah-Noor11/selenium_work"><strong>Open Repository on GitHub</strong></a></p>
-</details>
-</td>
-<td width="50%" valign="top">
-<details><summary><img src="assets/repos/04.png" width="100%" alt="Python Practice: click to expand" /></summary>
-<p><strong>Python Practice</strong></p>
-<p>A collection of fundamental Python exercises and library experiments.</p>
-<p>↗ <a href="https://github.com/Mah-Noor11/Python"><strong>Open Repository on GitHub</strong></a></p>
-</details>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<details><summary><img src="assets/repos/05.png" width="100%" alt="LeetCode Practice: click to expand" /></summary>
-<p><strong>LeetCode Practice</strong></p>
-<p>Algorithmic programming exercises and independent problem-solving practice.</p>
-<p>↗ <a href="https://github.com/Mah-Noor11/Leetcode"><strong>Open Repository on GitHub</strong></a></p>
-</details>
-</td>
-<td width="50%" valign="top">
-<details><summary><img src="assets/repos/06.png" width="100%" alt="Volunteer Teaching: click to expand" /></summary>
-<p><strong>Volunteer Teaching</strong></p>
-<p>Workshops, volunteer teaching, course moderation, and community activities.</p>
-<p>↗ <a href="https://github.com/Mah-Noor11/Volunteer-Teaching-Activities"><strong>Open Repository on GitHub</strong></a></p>
-</details>
-</td>
-</tr>
-</table>
-
-## GitHub Activity
+<img src="./assets/projects.svg" width="100%" alt="Selected work" />
 
 <div align="center">
 <table>
 <tr>
-<td width="50%"><a href="https://github.com/Mah-Noor11?tab=repositories"><img src="assets/stats/activity-summary.png" width="100%" alt="Mah Noor: building in public through data, Python and automation" /></a></td>
-<td width="50%"><a href="https://github.com/Mah-Noor11?tab=repositories"><img src="assets/stats/public-languages.png" width="100%" alt="Languages featured in projects: Python, Jupyter and Java" /></a></td>
+<td width="50%"><a href="https://github.com/Mah-Noor11/Sales_dashboard"><img src="./assets/project-sales.svg" width="100%" alt="Sales and profit dashboard project" /></a></td>
+<td width="50%"><a href="https://github.com/Mah-Noor11/plots_data"><img src="./assets/project-plot.svg" width="100%" alt="Plotly visualization project" /></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/Mah-Noor11/selenium_work"><img src="./assets/project-selenium.svg" width="100%" alt="Selenium automation project" /></a></td>
+<td><a href="https://github.com/Mah-Noor11/Python"><img src="./assets/project-python.svg" width="100%" alt="Python practice project" /></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/Mah-Noor11/Leetcode"><img src="./assets/project-leetcode.svg" width="100%" alt="Leetcode practice project" /></a></td>
+<td><a href="https://github.com/Mah-Noor11/Volunteer-Teaching-Activities"><img src="./assets/project-volunteer.svg" width="100%" alt="Volunteer teaching project" /></a></td>
 </tr>
 </table>
-
-<a href="https://github.com/Mah-Noor11"><img src="https://streak-stats.demolab.com?user=Mah-Noor11&amp;hide_border=true&amp;background=FFFFFF00&amp;ring=367A61&amp;fire=B7884A&amp;currStreakLabel=367A61&amp;sideLabels=668274&amp;currStreakNum=367A61&amp;sideNums=668274&amp;dates=7F9287" width="72%" alt="Mah Noor GitHub contribution streak — live stats" /></a>
-
-<sub>Streak data is live and depends on the external stats service. The summary cards above are bundled locally and never display invented counts.</sub>
 </div>
 
-## Where I’m Heading
+<img src="./assets/research.svg" width="100%" alt="Research direction" />
 
-<div align="center"><img src="assets/cards/research-roadmap.gif" width="100%" alt="Learning, evaluation, and future research goals" /></div>
+I'm interested in **reliable and responsible AI**, especially how data quality, annotation decisions, model evaluation, and shifting real-world conditions affect outcomes. My goal is to grow from applying tools to designing reproducible experiments and making evidence-based improvements.
 
-My goal is to go beyond applying machine-learning tools and develop the research skills needed to ask better questions, evaluate systems carefully, and make evidence-based improvements. **Graduate study and collaborative research are my next steps.**
-
-## Let's Connect
+<img src="./assets/activity.svg" width="100%" alt="GitHub activity" />
 
 <div align="center">
-<img src="assets/connect/mn-connect-logo.png" width="76%" alt="M.N monogram logo for Mah Noor Let's Connect section" />
 
-<p><sub>Choose a hexagon to open a link.</sub></p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mah-Noor11&theme=dark&background=18231D&ring=A7BD87&fire=C9D7A7&currStreakLabel=D2E1C2&sideLabels=D2E1C2&dates=ACBDAF&hide_border=true" alt="Live GitHub streak statistics" />
 
-<a href="https://mah-noor11.github.io/"><img src="assets/connect/portfolio.png" width="117" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/ma-h-noor/"><img src="assets/connect/linkedin.png" width="117" alt="LinkedIn" /></a>
-<a href="https://github.com/Mah-Noor11"><img src="assets/connect/github.png" width="117" alt="GitHub" /></a>
-<a href="mailto:mahnoortech738@gmail.com"><img src="assets/connect/email.png" width="117" alt="Email" /></a>
-<a href="assets/Mah-Noor-Academic-CV.pdf"><img src="assets/connect/cv.png" width="117" alt="Academic CV" /></a>
-
-<br />
-<sub>Learn with curiosity. Build with care. Grow through research.</sub>
 </div>
+
+<sub>Live activity is provided by an external service and may occasionally be unavailable.</sub>
+
+<img src="./assets/connect.svg" width="100%" alt="Let's connect" />
+
+<div align="center">
+<table>
+<tr>
+<td><a href="https://github.com/Mah-Noor11"><img src="./assets/connect-github.svg" width="100%" alt="GitHub" /></a></td>
+<td><a href="https://www.linkedin.com/in/ma-h-noor/"><img src="./assets/connect-linkedin.svg" width="100%" alt="LinkedIn" /></a></td>
+<td><a href="mailto:mahnoortech738@gmail.com"><img src="./assets/connect-email.svg" width="100%" alt="Email" /></a></td>
+<td><a href="https://mah-noor11.github.io/"><img src="./assets/connect-portfolio.svg" width="100%" alt="Portfolio" /></a></td>
+</tr>
+</table>
+</div>
+
+<div align="center"><img src="./assets/footer.svg" width="100%" alt="Animated closing footer" /></div>
